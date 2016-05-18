@@ -1,0 +1,20 @@
+/*TETE*/
+#Tete{
+  min-height: 100px;
+  background-color: black;
+  color: white;
+}
+/*NAVIGATION*/
+#Navigation{
+  min-height: 100px;
+  background-color: #3F51B5;
+  color: white;
+}
+/*CORPS*/
+#Corps{
+  min-height: 600px;
+}
+/*PIED*/
+#Pied{
+  min-height: 200px;
+}
